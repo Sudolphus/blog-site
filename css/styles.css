@@ -2,8 +2,14 @@
   color: red;
   background-color: gold;
   text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
+.margin {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 .outro {
   font-style: italic;
 }
