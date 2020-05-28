@@ -2,8 +2,8 @@
   color: red;
   background-color: gold;
   text-align: center;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  border: 2px solid green;
+  padding: 5px;
 }
 
 .margin {
